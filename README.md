@@ -11,7 +11,12 @@ README Data Science
 
   - dans la langue de Shakespear :
     
-      - le tuto de kaggle : <https://www.kaggle.com/learn/overview>
+      - le tuto de kaggle (\# Google en ligne) :
+        <https://www.kaggle.com/learn/overview> (ok pour un jour \~3
+        premiers chapitres du tutos) \> tuto + Titanic use case ?
+    
+    Plus spécialisé :
+    
       - scikit learn :
         <https://scikit-learn.org/stable/documentation.html>
       - R for DS : <https://r4ds.had.co.nz/>
@@ -19,3 +24,17 @@ README Data Science
   - dans la langue de Molière :
     
       - <http://larmarange.github.io/analyse-R/>
+
+  - Pour coder en ligne sans installer de logiciels :
+    
+      - Jupyter lab (+++ git)
+      - RStudio Cloud (+++ git)
+
+  - Lien data pour pratiquer :
+    
+      - data.gouv.fr
+      - <https://archive.ics.uci.edu/ml/index.php>
+
+  - Démo vidéo tidy tuesday
+    
+      - <https://www.youtube.com/results?search_query=%23tidytuesday>
